@@ -1,16 +1,16 @@
 {
-  "title": "Your Blog Name",
-  "url": "https://myurl.com/",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "title": "Faraway, So Close",
+  "url": "https://chrisenns.com/",
+  "description": "Up with the static and the radio waves.",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "Up with the static and the radio waves.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "url": "https://myurl.com/feed/feed.xml",
-    "id": "https://myurl.com/"
+    "url": "https://chrisenns.com/feed/feed.xml",
+    "id": "https://chrisenns.com/"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com"
+    "name": "Chris Enns",
+    "email": "contact@chrisenns.com"
   }
 }
